@@ -1,0 +1,7 @@
+/django/secret.json
+/django/.env
+.env
+/docker/mysql/data
+/docker/mysql/sql
+/django/static/
+/django/media/
